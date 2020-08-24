@@ -1,0 +1,42 @@
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\bin\Debug\netcoreapp3.1\Movies Model Lab.exe
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\bin\Debug\netcoreapp3.1\Movies Model Lab.deps.json
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\bin\Debug\netcoreapp3.1\Movies Model Lab.runtimeconfig.json
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\bin\Debug\netcoreapp3.1\Movies Model Lab.runtimeconfig.dev.json
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\bin\Debug\netcoreapp3.1\Movies Model Lab.dll
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\bin\Debug\netcoreapp3.1\Movies Model Lab.pdb
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\bin\Debug\netcoreapp3.1\Movies Model Lab.Views.dll
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\bin\Debug\netcoreapp3.1\Movies Model Lab.Views.pdb
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.csprojAssemblyReference.cache
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.AssemblyInfoInputs.cache
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.AssemblyInfo.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.csproj.CoreCompileInputs.cache
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.RazorAssemblyInfo.cache
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.RazorAssemblyInfo.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.TagHelpers.input.cache
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.TagHelpers.output.cache
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.RazorCoreGenerate.cache
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\MovieAdd.cshtml.g.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\MovieForm.cshtml.g.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Razor\Views\Movies\MovieAdd.cshtml.g.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Razor\Views\Movies\MovieForm.cshtml.g.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.RazorTargetAssemblyInfo.cache
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.RazorTargetAssemblyInfo.cs
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.Views.pdb
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\staticwebassets\Movies Model Lab.StaticWebAssets.Manifest.cache
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\staticwebassets\Movies Model Lab.StaticWebAssets.xml
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.dll
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.pdb
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.genruntimeconfig.cache
+C:\Users\kress\source\repos\Movies Model Lab\Movies Model Lab\obj\Debug\netcoreapp3.1\Movies Model Lab.csproj.CopyComplete

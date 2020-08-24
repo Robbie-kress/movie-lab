@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "MovieForm";
+}
+
+<h1>Movie Form</h1>
+
+<form asp-controller="Movies" asp-action="MovieAdd" method="post">
+    <label>Id add</label>
+    <input type="number" name="Id" placeholder="Id" />
+
+    <label>Title of Movie</label>
+    <input type="text" name="Title" step="0.01" placeholder="Movie Title" />
+
+    <label>Movie Genre</label>
+    <input type="text" name="Genre" step="0.1" placeholder="Genre" />
+
+    <label>Release Date</label>
+    <input type="date" name="Released" step="0.1" placeholder="00/00/0000" />
+
+    <label>Input Actors</label>
+    <input type="text" name="Actor Name" step="0.1" placeholder="Name of Actor" />
+
+    <label>Input Director</label>
+    <input type="text" name="Director Name" step="0.1" placeholder="Name of Director" />
+
+
+    <input type="submit" value="Add Movie to Database" class="btn btn-success" />
+</form>
+
